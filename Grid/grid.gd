@@ -253,3 +253,7 @@ func move_piece(p, position_change):
 	p.move_piece(p.position + position_change)
 
 
+
+
+func _on_Music_finished():
+	pass # Replace with function body.
